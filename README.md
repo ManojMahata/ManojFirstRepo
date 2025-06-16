@@ -1,2 +1,3 @@
 # ManojFirstRepo
-Just came into this Github thing hope I will understand things quickly.
+Just came into this Github thing, hope I'll understand things quickly.
+Now what to do and how to do I'm getting confused.
